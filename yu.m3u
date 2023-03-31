@@ -13,5 +13,9 @@ http://live.aptvapp.com/live/douyu/5324055
 http://live.aptvapp.com/live/douyu/288016
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/117fa2e8b03b4a8080141afc4c3beffe_middle.jpg" group-title="英雄联盟",英雄联盟赛事2
 http://live.aptvapp.com/live/douyu/424559
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202208/117fa2e8b03b4a8080141afc4c3beffe_middle.jpg" group-title="主机游戏",超级小桀
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202110/c36c850e141846da95f5a781c416a2f1_middle.jpg" group-title="主机游戏",超级小桀
 http://live.aptvapp.com/live/douyu/74751
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/45/72830cef1a5cd56eb29c0af0815d31_180_135.jpg?1669888115" group-title="英雄联盟",Rookie
+http://live.aptvapp.com/huya.php?id=970311
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1073/bb/3067534226d20fa2cabbac88ac2e00_180_135.jpg?1642592588" group-title="英雄联盟",ThyShy
+http://live.aptvapp.com/huya.php?id=991111
